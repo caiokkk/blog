@@ -1,0 +1,14 @@
+#contact iframe
+{
+    width: 100%;
+}
+.travel_mainDiv{
+border: 1px solid lightgray;
+}
+.travel_mainDiv img{
+width: 100%;
+}
+.filmes-head i{
+float: right
+}
+.filmes-head{ font-size: 20px; padding: 6px 22px; border-radius: 10px; margin-bottom: 15px; } .filmes-text span{ color: orange; }
